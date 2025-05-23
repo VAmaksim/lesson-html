@@ -39,10 +39,6 @@ $db->close();
 ?>
 
 
-
-
-
-
 <!DOCTYPE html>
 <html>
 <head><title>Доска</title></head>
